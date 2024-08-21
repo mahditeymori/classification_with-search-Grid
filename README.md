@@ -1,5 +1,4 @@
 ### Hi there 👋
-I worked on the data from the [Dry Bean Dataset](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset) and applied various machine learning techniques, including Logistic Regression, Decision Tree, SVM, KNN, XGBoost, and Neural Networks, to analyze the problem. I also attempted to remove features with high correlation to improve accuracy, but this did not lead to better results.
 
 <!--
 **mahditeymori/mahditeymori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
